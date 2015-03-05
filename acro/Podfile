@@ -1,0 +1,8 @@
+workspace 'acro.xcworkspace'
+platform :ios, :deployment_target => "7.0"
+
+xcodeproj 'acro'
+
+pod 'MBProgressHUD', '~> 0.9'
+pod 'AFNetworking', '~> 2.0'
+pod 'Mantle', '~> 1.5'
