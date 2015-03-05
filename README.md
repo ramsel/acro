@@ -2,7 +2,8 @@
 
 A coding exercise completed in 1.5 hours:
 
-![Alt text](http://imgur.com/ZpHHLH2)
+![Alt text](http://i.imgur.com/ZpHHLH2)
+
 
 Screenshot:
 
